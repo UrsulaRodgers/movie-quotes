@@ -1,0 +1,203 @@
+@media (min-width: 100px) {
+  body {
+	background-image:url('http://res.cloudinary.com/ursularodgers/image/upload/v1496832267/dreamstime_m_30071253_popcorn_2_u6cwkj.jpg');
+	background-repeat:no-repeat;
+	background-position: center top;
+	background-size: 1300px;
+}
+	#line {
+		color:#2D2C2B;
+		font-size:20px;
+    font-style:bold;
+		position:relative;
+		top:180px;	
+    -webkit-animation-duration: 1500ms;
+    animation-duration: 1500ms;
+	}
+    #movie {
+		color:#2D2C2B;
+		font-size:14px;
+		font-style:italic;
+		position:relative;
+		top:230px;	
+		-webkit-animation-duration: 1500ms;
+    animation-duration: 1500ms;
+	}
+	#getQuotes{
+		background-color:#2D2C2B;
+		color:#fff;
+		position:relative;
+		top:260px;
+	}
+	#socialMedia {
+		position:relative;
+		top:280px;
+    margin-bottom:5px;
+	}
+	.fa-quote-left {
+	position:relative;
+	top:160px;
+	}
+	#left	{
+		font-size:30px;
+	}
+	.fa-quote-right {
+	position:relative;
+	top:200px;
+	}
+	#right	{
+		font-size:20px;
+	}
+}
+@media (min-width: 551px) {
+  body {
+	background-image:url('http://res.cloudinary.com/ursularodgers/image/upload/v1496832267/dreamstime_m_30071253_popcorn_2_u6cwkj.jpg');
+	background-repeat:no-repeat;
+	background-position: center top;
+  /*background-attachment: fixed;*/
+	background-size: 1100px;
+}
+	#line {
+		color:#2D2C2B;
+		font-size:25px;
+    font-style:bold;
+		position:relative;
+		top:180px;	
+    -webkit-animation-duration: 1500ms;
+    animation-duration: 1500ms;
+	}
+  #movie {
+		color:#2D2C2B;
+	  font-size:17px;
+	  font-style:italic;
+	  position:relative;
+	  top:230px;	
+  	-webkit-animation-duration: 1500ms;
+    animation-duration: 1500ms;
+  }
+	#getQuotes{
+		background-color:#2D2C2B;
+		color:#fff;
+		position:relative;
+		top:260px;
+	}
+	#socialMedia {
+		position:relative;
+		top:280px;
+    margin-bottom:6px;
+	}
+	.fa-quote-left {
+	position:relative;
+	top:160px;
+  }
+	#left	{
+		font-size:40px;
+	}
+  .fa-quote-right {
+	  position:relative;
+	  top:200px;
+  }  
+  #right	{
+	  font-size:25px;
+  }
+}
+@media (min-width: 768px) {
+  body {
+	background-image:url('http://res.cloudinary.com/ursularodgers/image/upload/v1496832267/dreamstime_m_30071253_popcorn_2_u6cwkj.jpg');
+	background-repeat:no-repeat;
+	background-position: center top;
+	background-size: 1200px;
+}
+  #line {
+		color:#2D2C2B;
+		font-size:27px;
+		position:relative;
+		top:180px;	
+    -webkit-animation-duration: 1500ms;
+    animation-duration: 1500ms;
+	}
+	#movie {
+		color:#2D2C2B;
+		font-size:15px;
+		font-style:italic;
+		position:relative;
+		top:230px;	
+		-webkit-animation-duration: 1500ms;
+   	animation-duration: 1500ms;
+	}
+	#getQuotes{
+		background-color:#2D2C2B;
+		color:#fff;
+		position:relative;
+		top:260px;
+	}
+	#socialMedia {
+		position:relative;
+		top:280px;
+    margin-bottom:8px;
+	}
+	.fa-quote-left {
+	  position:relative;
+	  top:160px;
+  }
+  #left{
+	  font-size:40px;
+  }
+  .fa-quote-right {
+	  position:relative;
+  	top:200px;
+  }
+  #right {
+	  font-size:27px;
+  }
+}
+@media (min-width: 1024px) {
+  body {
+	background-image:url('random_quote_generator.jpg');
+	background-repeat:no-repeat;
+	background-position: center top;
+	background-size: 1400px;
+}
+  #line {
+	  color:#2D2C2B;
+	  font-size:33px;
+	  position:relative;
+	  top:160px;	
+    -webkit-animation-duration: 1500ms;
+    animation-duration: 1500ms;
+  }
+  #movie {
+	  color:#2D2C2B;
+	  font-size:17px;
+	  font-style:italic;
+	  position:relative;
+	  top:230px;	
+	  -webkit-animation-duration: 1500ms;
+    animation-duration: 1500ms;
+  }
+  #getQuotes{
+	  background-color:#2D2C2B;
+	  color:#fff;
+	  position:relative;
+	  top:260px;
+  }
+  #socialMedia {
+	  position:relative;
+    top:280px;
+    margin-bottom:10px;
+  }
+  .fa-quote-left {
+	  position:relative;
+	  top:140px;
+  }
+  #left{
+	  font-size:50px;
+  }
+  .fa-quote-right {
+	  position:relative;
+	  top:180px;
+  }
+  #right {
+	  font-size:33px;
+  }
+}
